@@ -1,4 +1,10 @@
-### Hi there 👋
+### 
+<br/>
+
+<p align="center" style="height: 180px;">
+    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=Mulishpudden7u7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Mulishpudden7u7&theme=radical&show_icons=true&border=e4e2e2" />
+</p>
 
 <!--
 **Mulishpudden7u7/Mulishpudden7u7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...dcew
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
